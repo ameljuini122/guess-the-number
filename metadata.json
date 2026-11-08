@@ -1,0 +1,6 @@
+{
+  "name": "Deviner le nombre",
+  "description": "Jeu interactif captivant où vous devez deviner un nombre secret entre 1 et 100 en 5 tentatives maximum avec indices visuels et système de scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
